@@ -2,7 +2,7 @@
 - 👩‍🎓 I’m **Edyta Łabędzka** currently a third year student at Wrocław University of Science and Technology
 - 🔭 Presently working on a little *Data Science project in Python*
 - 💻 Some of my tools: Python, Mathematica, Matlab, Julia, Scilab & LaTeX
-- 🔨 Currently improving in: statistics, programming, Git & more...
+- 🔨 Currently improving in: SQL, statistics, programming, Git & more...
 - ⚡ Interested in everything related to applied matematics
 
 ## 📫 Reach me at:
