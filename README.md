@@ -11,6 +11,7 @@
 
 
 ## 💻 Check out my repositories:
+- Database creation → https://github.com/KatarzynaTurbanska/CurlingMasters
 - Some data analysis → https://github.com/3dytalabedzka/data_analysis_spotify
 - Ghostbusters game in Python → https://github.com/3dytalabedzka/ghostbusters_game
 
