@@ -1,9 +1,7 @@
 # Hi there 👋
-- 👩‍🎓 I’m **Edyta Łabędzka** currently a third year student at Wrocław University of Science and Technology
-- 🔭 Presently working on a little *Data Science project in Python*
-- 💻 Some of my tools: Python, Mathematica, Matlab, Julia, Scilab & LaTeX
-- 🔨 Currently improving in: SQL, statistics, programming, Git & more...
-- ⚡ Interested in everything related to applied matematics
+- 👩‍🎓 I’m **Edyta Łabędzka** - currently working as Software Engineer.
+- 💻 Some of my tools: Python, PySpark, SQL, dbt, Snowflake, Git & more ...
+- ⚡ and I'm no pro, but I do like data... and desserts.
 
 ## 📫 Reach me at:
 [![Gmail Badge](https://img.shields.io/badge/-edlabedzka@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edlabedzka@gmail.com)](mailto:edlabedzka@gmail.com)
